@@ -8,7 +8,7 @@ Matlab implementation for "Learning Deep Analysis Dictionaries for Image Super-R
 
 <img width="654" alt="WINNet" src="https://user-images.githubusercontent.com/89965355/178172283-b6b9e7da-add2-44ad-b83d-3b87918a8c5b.png">
 
-#How to use the code?
+# How to use the code?
 1. use trainDeepAM.m to perform training.
 
 2. use testDeepAM.m to perform testing on Set5 or Set14. 
