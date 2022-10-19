@@ -4,7 +4,7 @@
 
 [Jun-Jie Huang](https://jjhuangcs.github.io/) (jjhuang@nudt.edu.cn) and [Pier Luigi Dragotti](http://www.commsp.ee.ic.ac.uk/~pld/)
 
-Matlab implementation for "Learning Deep Analysis Dictionaries for Image Super-Resolution" (TSP'2020).
+Official implementation for "Learning Deep Analysis Dictionaries for Image Super-Resolution" (TSP'2020).
 
 <img width="654" alt="DeepAM" src="https://user-images.githubusercontent.com/89965355/196571760-f3f7f6a4-5473-46f7-bf0e-e0e0dcf65e1f.png">
 
